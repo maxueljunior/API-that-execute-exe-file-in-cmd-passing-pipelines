@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExecuteArchiveExe.Contract/1.0.0": {
+        "runtime": {
+          "ExecuteArchiveExe.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExecuteArchiveExe.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

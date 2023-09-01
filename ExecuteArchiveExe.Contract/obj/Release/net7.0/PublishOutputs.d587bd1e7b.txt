@@ -1,0 +1,3 @@
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\bin\Release\net7.0\publish\ExecuteArchiveExe.Contract.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\bin\Release\net7.0\publish\ExecuteArchiveExe.Contract.deps.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\bin\Release\net7.0\publish\ExecuteArchiveExe.Contract.pdb

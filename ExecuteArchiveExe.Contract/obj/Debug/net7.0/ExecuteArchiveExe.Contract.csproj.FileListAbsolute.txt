@@ -1,0 +1,11 @@
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\bin\Debug\net7.0\ExecuteArchiveExe.Contract.deps.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\bin\Debug\net7.0\ExecuteArchiveExe.Contract.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\bin\Debug\net7.0\ExecuteArchiveExe.Contract.pdb
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ExecuteArchiveExe.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ExecuteArchiveExe.Contract.AssemblyInfoInputs.cache
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ExecuteArchiveExe.Contract.AssemblyInfo.cs
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ExecuteArchiveExe.Contract.csproj.CoreCompileInputs.cache
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ExecuteArchiveExe.Contract.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\refint\ExecuteArchiveExe.Contract.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ExecuteArchiveExe.Contract.pdb
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe.Contract\obj\Debug\net7.0\ref\ExecuteArchiveExe.Contract.dll

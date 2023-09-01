@@ -1,0 +1,9 @@
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.exe
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\appsettings.Development.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\appsettings.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.deps.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.runtimeconfig.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.pdb
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.Contract.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\publish\ExecuteArchiveExe.Contract.pdb

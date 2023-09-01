@@ -1,0 +1,9 @@
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.exe
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\appsettings.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.deps.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.runtimeconfig.json
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.pdb
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.Contract.dll
+C:\Users\maxueljunior\Videos\Docs\execute-archive-exe\ExecuteArchiveExe\ExecuteArchiveExe\bin\Release\net7.0\publish\ExecuteArchiveExe.Contract.pdb
